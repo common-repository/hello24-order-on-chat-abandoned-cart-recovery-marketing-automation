@@ -1,0 +1,96 @@
+Version 1.0.0 - Monday, 1st Aug 2022
+- Initial Release
+
+
+Version 1.1.0 - Friday, 02 Sep 2022
+
+- Added COD to Prepaid features, Abandoned cart recovery by End to End Whatsapp checkout flow.
+- Whatsapp Button customization new settings
+
+Version 1.2.0 - Sunday, 30 Oct 2022
+
+- Bug fixes and performance improvements.
+
+= 1.3.0 =
+
+- Whatsapp Shop features & improvements.
+
+= 1.4.0 =
+
+- Bug fixes & performance improvements.
+
+= 1.4.1 =
+
+- Bug fixes & performance improvements.
+
+= 1.5.0 =
+
+- Bug fixes & performance improvements.
+
+= 1.5.1 =
+
+- New Whatsapp API features & performance improvements.
+
+= 1.5.2 =
+
+- Order status url fixes. New Whatsapp API features & performance improvements.
+
+= 1.5.3 =
+
+- Changed screenshots.
+
+= 1.5.4 =
+
+- Added plugin install notifications.
+
+= 1.5.5 =
+
+- Added new features.
+
+= 1.5.6 =
+
+- Open Hello24 dashboard from Woocommerce admin to customize WhatsApp notifications.
+
+= 1.5.7 =
+
+- Search products on Whatsapp.
+
+= 1.5.8 =
+
+- List customers based on their reward points for WhatsApp broadcast.
+
+= 1.5.9 =
+
+- List customers based on the products they have purchased earlier for WhatsApp broadcast.
+
+= 1.6.0 =
+
+- Product images for WhatsApp shop.
+
+= 1.6.1 =
+
+- Production Environment issue fixed.
+
+= 1.6.2 =
+
+- Product variants duplicate issue fixed.
+
+= 1.6.3 =
+
+- New user WhatsApp notification feature.
+
+= 1.6.4 =
+
+- Products can be added to Whatsapp cart from Woocommerce catalog and curated list of products can be sent by agent to have personalized experience.
+
+= 1.6.5 =
+
+- Added support for sending tickets(pdf) from Fooevents directly in Whatsapp
+
+= 1.6.6 =
+
+- Improved experience for Whatsapp direct order
+
+= 1.6.7 =
+
+- Support for latest Wordpress version.
